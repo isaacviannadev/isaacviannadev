@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Isaac Vianna! :beginner:
+
+### - 🌱 I’m currently learning Front end development, after work many years as a bartender, I decided to dedicate myself to another passion: Web Development!
+
+### - 📫 How to reach me: 
+![Linkedin Badge](https://img.shields.io/badge/-Isaac Vianna-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaacvianna/) ![Gmail Badge](https://img.shields.io/badge/-isaacsvianna@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:isaacsvianna@gmail.com)
+
 <!--
 **isaacviannadev/isaacviannadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
