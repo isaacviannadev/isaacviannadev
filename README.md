@@ -2,7 +2,7 @@
 
 My name is Isaac Vianna! :beginner:
 
-  After work many years as a bartender, I decided to dedicate myself to another passion: Web Development!
+  After worked many years as a bartender, I decided to dedicate myself to another passion: Web Development!
 
 #### - 🌱 I’m currently learning:
   Now, I'm dedicated to learning **React**, **Html**, **Javascript** and **CSS**. 
