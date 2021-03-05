@@ -2,12 +2,13 @@
 ---
 
 
-My name is Isaac Vianna! :beginner:
+Me chamo Isaac Vianna! :beginner:
 
-  After worked many years as a bartender, I decided to dedicate myself to another passion: Web Development!
+ Depois de muitos anos trabalhando com serviços, gestão e treinamentos, decidi me dedicar ao que sempre foi uma paixão o **Desenvolvimento**.
 
 #### - 🌱 I’m currently learning:
-  Now, I'm dedicated to learning **React**, **Html**, **Javascript**, **Typescript** and **CSS**. 
+  Tenho uma boa base de **Html**, **Javascript**, **Typescript** and **CSS**.
+  E agora estou aprendendo **React**, **React Native**, **Next Js**, **NodeJs**. 
 
 #### - 📫 How to reach me: 
 ![Linkedin Badge](https://img.shields.io/badge/-IsaacVianna-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaacvianna/) ![Gmail Badge](https://img.shields.io/badge/-isaacsvianna@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:isaacsvianna@gmail.com)
