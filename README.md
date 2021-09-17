@@ -4,11 +4,11 @@
 
 Me chamo Isaac Vianna! :beginner:
 
- Depois de muitos anos trabalhando com serviços, gestão e treinamentos, decidi me dedicar ao que sempre foi uma paixão o **Desenvolvimento**.
+ Tenho 33 anos, possuo sólida experiência em serviços atuando em empresas de educação, eventos, restaurantes e hotelaria, com vivências nas diversas áreas, desde o operacional até a gestão e consultoria. Como desenvolvedor, tenho bastante experiência com desenvolvimento para web, mobile e desktop, adoro resolver problemas e colaborar com o sucesso.
 
 #### - 🌱 I’m currently learning:
-  Tenho uma boa base de **Html**, **Javascript**, **Typescript** and **CSS**.
-  E agora estou aprendendo **React**, **React Native**, **Next Js**, **NodeJs**. 
+  Tenho uma boa base de **Html**, **Javascript**, **Typescript** e **CSS**.
+  Trabalho com **React**, **React Native**, **Next Js**, **NodeJs**, **Flutter**. 
 
 #### - 📫 How to reach me: 
 ![Linkedin Badge](https://img.shields.io/badge/-IsaacVianna-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaacvianna/) ![Gmail Badge](https://img.shields.io/badge/-isaacsvianna@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:isaacsvianna@gmail.com)
