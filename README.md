@@ -4,7 +4,7 @@
 
 Me chamo Isaac Vianna! :beginner:
 
- Tenho 33 anos, possuo sólida experiência em serviços atuando em empresas de educação, eventos, restaurantes e hotelaria, com vivências nas diversas áreas, desde o operacional até a gestão e consultoria. Como desenvolvedor, tenho bastante experiência com desenvolvimento para web, mobile e desktop, adoro resolver problemas e colaborar com o sucesso.
+ Tenho 34 anos, Sou desenvolvedor Front-end Pleno na Lilly Estética.
 
 #### - 🌱 I’m currently learning:
   Tenho uma boa base de **Html**, **Javascript**, **Typescript** e **CSS**.
