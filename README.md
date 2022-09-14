@@ -2,11 +2,9 @@
 
 I'm Isaac Vianna! :beginner:
 
-I am 34 years of age, solid experience working in management positions in Services, Events and Education. 
-I am a techno geek, my passions are technology, astronomy and games, and love discovering new technologies.
-Creative problemsolving abilities and innovative thinking are my greatest skills.
-Nowadays I work as a Frontend Software Egineer at Lilly Estética, and learning new Technologies and acquiring new skills and knowledge in React stack, JS, TS, NextJs.
-
+Meu nome é Isaac dos Santos Vianna, tenho 34 anos, sou pós graduado em Engenharia de Software pela universidade Anhanguera.
+Atuo na área de tecnologia desde 2018, majoritariamente como desenvolvedor frontend em diversas empresas, mas também já atuei como Dev web fullstack (React, Svelte, Node, RoR), Dev mobile (Native e Flutter) e Arquiteto de software algumas vezes.
+Tenho forte background de serviços o que me dá uma visão voltada pra experiência do usuário e excelência.
 
 Do u have a problem and/or need a help? Talk to me!
 
