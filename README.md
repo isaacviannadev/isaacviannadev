@@ -1,12 +1,14 @@
 
 
-I'm Isaac Vianna! :beginner:
+I'm Isaac Vianna! 
 
-Meu nome é Isaac dos Santos Vianna, tenho 34 anos, sou pós graduado em Engenharia de Software pela universidade Anhanguera.
-Atuo na área de tecnologia desde 2018, majoritariamente como desenvolvedor frontend em diversas empresas, mas também já atuei como Dev web fullstack (React, Svelte, Node, RoR), Dev mobile (Native e Flutter) e Arquiteto de software algumas vezes.
-Tenho forte background de serviços o que me dá uma visão voltada pra experiência do usuário e excelência.
+I'm a software engineer with experience in front-end, full-stack, and mobile development. I hold a postgraduate degree in Software Engineering from Anhanguera University. I have been working in technology since 2018, primarily as a front-end developer in various companies. However, I have worked as a full-stack web developer (using React, Svelte, Node.js, and Ruby on Rails), a mobile developer (using native technologies and Flutter), and occasionally as a software architect.
 
-Do u have a problem and/or need a help? Talk to me!
+I have a strong background in services, which gives me a user-focused and excellence-driven perspective. I have gained a wide range of skills and expertise throughout my career. I am always seeking to improve my abilities and stay updated with the latest market trends.
+
+I am committed to delivering high-quality projects, prioritizing client satisfaction, and creating exceptional user experiences. If you are looking for a versatile, experienced professional who is passionate about technology, I am ready to contribute my knowledge and skills. Let's work together to achieve outstanding results!
+
+
 
 
 #### - 📫 How to reach me: 
